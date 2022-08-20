@@ -1,4 +1,14 @@
 {
-    "userName": "Lihao",
-    "password": "123"
-}
+    "authentication": {
+      "userName": "Lihao",
+      "password": "123"
+    },
+    "accounts": {
+      "BMO":123,
+      "Wealthsimple Trade": 123,
+      "RRSP": 123,
+      "EQ Bank": 123
+    }
+    
+  }
+  
